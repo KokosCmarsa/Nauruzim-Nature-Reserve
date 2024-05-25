@@ -1,6 +1,6 @@
 const leftButton = document.querySelector('.scroll-btn-left');
 const rightButton = document.querySelector('.scroll-btn-right');
-const floraContainer = document.querySelector('.flora');
+const floraContainer = document.querySelector('.fauna');
 
 leftButton.addEventListener('click', function() {
     floraContainer.scrollBy({
